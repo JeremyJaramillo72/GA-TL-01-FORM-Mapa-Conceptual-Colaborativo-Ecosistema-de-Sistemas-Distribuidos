@@ -38,7 +38,8 @@
 > El tablero interactivo debe contar con permisos de **solo lectura / visualización pública** para que el docente pueda auditar en detalle la cronología e **historial de colaboración y aportes individuales** de cada integrante del equipo.
 
 - 🌐 **Enlace directo al tablero de Miro:**  
-  `[PEGAR_AQUI_EL_ENLACE_DE_MIRO]`
+  [Tablero Colaborativo en Miro (Ecosistema de Sistemas Distribuidos)](https://miro.com/app/board/uXjVETuQNeI=/)  
+  *(Enlace de acceso / visualización: `https://miro.com/app/board/uXjVETuQNeI=/`)*
 
 ---
 

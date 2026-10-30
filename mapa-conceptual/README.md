@@ -21,7 +21,7 @@ En esta carpeta se deben alojar los archivos finales correspondientes al mapa co
 > [!IMPORTANT]
 > El tablero en Miro debe contar con **permisos de visualización públicos o para cualquier persona con el enlace**, garantizando que el docente pueda revisar la cronología e **historial de colaboración y aportes individuales** de cada integrante del grupo.
 
-- **Enlace al tablero:** `[PEGAR_AQUI_EL_ENLACE_DE_MIRO]`
+- **Enlace al tablero:** [https://miro.com/app/board/uXjVETuQNeI=/](https://miro.com/app/board/uXjVETuQNeI=/)
 
 ---
 
