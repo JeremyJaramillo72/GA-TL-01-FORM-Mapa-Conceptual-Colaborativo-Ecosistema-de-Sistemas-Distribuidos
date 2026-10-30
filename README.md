@@ -23,12 +23,12 @@
 
 ## 👥 Integrantes del Equipo
 
-| N° | Nombres y Apellidos | Correo Institucional | Usuario GitHub | Rol / Aporte |
-| :---: | :--- | :--- | :--- | :--- |
-| **1** | Jeremy Jaramillo | `ljaramilloa@uteq.edu.ec` | [@JeremyJaramillo72](https://github.com/JeremyJaramillo72) | Coordinador / Estructuración |
-| **2** | *[Nombre Integrante 2]* | *[Correo UTEQ]* | *[@usuario]* | Investigador / Modelado |
-| **3** | *[Nombre Integrante 3]* | *[Correo UTEQ]* | *[@usuario]* | Referencias / Validación |
-| **4** | *[Nombre Integrante 4 (Opcional)]* | *[Correo UTEQ]* | *[@usuario]* | Documentación / Miro |
+| N° | Nombres y Apellidos | C.I. | Correo Institucional | Usuario GitHub / Rol |
+| :---: | :--- | :---: | :--- | :--- |
+| **1** | Jeremy Jaramillo | — | `ljaramilloa@uteq.edu.ec` | [@JeremyJaramillo72](https://github.com/JeremyJaramillo72) (Coordinador / Repositorio) |
+| **2** | Kenny Isaías España Vera | `1208867794` | `kespanav@uteq.edu.ec` | Integrante / Modelado Teórico |
+| **3** | Luis Alberto Paca Pilataza | `1251252225` | `lpacap@uteq.edu.ec` | Integrante / Diseño y Estructura |
+| **4** | Heiner Ariel Zambrano Ronquillo | `0957140346` | `hzambranor@uteq.edu.ec` | Integrante / Referencias y Validación |
 
 ---
 
