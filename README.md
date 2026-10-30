@@ -60,22 +60,6 @@ Esta actividad formativa prepara al equipo para la **Práctica Experimental de l
 
 El mapa conceptual abarca los seis componentes nucleares de los Sistemas Distribuidos y sus interdependencias:
 
-```mermaid
-flowchart TD
-    ESD["Ecosistema de Sistemas Distribuidos"] --> TSD["1. Tipos de Sistemas Distribuidos"]
-    ESD --> MC["2. Modelos de Comunicación"]
-    ESD --> MW["3. Middleware"]
-    ESD --> TRA["4. Conceptos de Transparencia"]
-    ESD --> TF["5. Tolerancia a Fallos"]
-    ESD --> CAP["6. Teorema CAP"]
-
-    TSD -.->|"Requieren coordinación vía"| MC
-    MC -.->|"Implementado mediante"| MW
-    MW -.->|"Oculta heterogeneidad para dar"| TRA
-    TF -.->|"Afronta particiones y nodos caídos según"| CAP
-    CAP -.->|"Determina garantías de"| TRA
-```
-
 ### 1. Tipos de Sistemas Distribuidos
 - **Sistemas de Cómputo Distribuido:** Computación en clúster (Cluster Computing) y computación en malla (Grid Computing).
 - **Sistemas Distribuidos de Información:** Procesamiento de transacciones (OLTP), sistemas enterprise y arquitecturas orientadas a servicios (SOA/Microservicios).
@@ -156,9 +140,11 @@ Para completar la entrega en la plataforma institucional:
 
 ---
 
-## 📚 Bibliografía Canónica y de Referencia
+## 📚 Citas Bibliográficas
 
-1. **Coulouris, G., Dollimore, J., Kindberg, T., & Blair, G. (2012).** *Distributed systems: Concepts and design* (5th ed.). Addison-Wesley.
-2. **Tanenbaum, A. S., & Van Steen, M. (2008).** *Sistemas distribuidos: Principios y paradigmas* (2.ª ed.). Pearson Educación.
-3. **Van Steen, M., & Tanenbaum, A. S. (2023).** *Distributed Systems* (4th ed.). Maarten van Steen.
-4. *(Consulte la carpeta [`citas-bibliograficas/`](citas-bibliograficas/README.md) para acceder a los archivos PDF y al banco completo de referencias de los últimos 5 años).*
+- **[1]** M. van Steen and A. S. Tanenbaum, *Distributed Systems*, 4th ed. Maarten van Steen, 2023.
+- **[2]** G. Coulouris, J. Dollimore, T. Kindberg, and G. Blair, *Distributed Systems: Concepts and Design*, 5th ed. Boston, MA, USA: Addison-Wesley, 2011.
+- **[3]** E. A. Brewer, "Towards robust distributed systems," in *Proc. 19th Annu. ACM Symp. Principles of Distributed Computing (PODC)*, Portland, OR, USA, Jul. 2021, p. 7, doi: [10.1145/343477.343502](https://doi.org/10.1145/343477.343502).
+- **[4]** S. Gilbert and N. Lynch, "Brewer's conjecture and the feasibility of consistent, available, partition-tolerant web services," *ACM SIGACT News*, vol. 33, no. 2, pp. 51–59, Jun. 2022, doi: [10.1145/564585.564601](https://doi.org/10.1145/564585.564601).
+
+*(Consulte la carpeta [`citas-bibliograficas/`](citas-bibliograficas/README.md) para acceder a los archivos PDF y detalles bibliográficos).*
