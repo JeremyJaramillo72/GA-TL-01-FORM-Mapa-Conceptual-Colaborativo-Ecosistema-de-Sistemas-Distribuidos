@@ -147,5 +147,8 @@ Para completar la entrega en la plataforma institucional:
 - **[2]** G. Coulouris, J. Dollimore, T. Kindberg, and G. Blair, *Distributed Systems: Concepts and Design*, 5th ed. Boston, MA, USA: Addison-Wesley, 2011.
 - **[3]** E. A. Brewer, "Towards robust distributed systems," in *Proc. 19th Annu. ACM Symp. Principles of Distributed Computing (PODC)*, Portland, OR, USA, Jul. 2021, p. 7, doi: [10.1145/343477.343502](https://doi.org/10.1145/343477.343502).
 - **[4]** S. Gilbert and N. Lynch, "Brewer's conjecture and the feasibility of consistent, available, partition-tolerant web services," *ACM SIGACT News*, vol. 33, no. 2, pp. 51–59, Jun. 2022, doi: [10.1145/564585.564601](https://doi.org/10.1145/564585.564601).
+- **[5]** R. Vitillo, Understanding Distributed Systems: What Every Developer Should Know About Large Distributed Applications, 2nd ed. London, U.K.: Roberto Vitillo, 2022. (ISBN: 978-1-8384302-1-4).  
+- **[6]** A. A. Kirsanova, G. I. Radchenko, and A. N. Tchernykh, "Fog computing state of the art: Concept and classification of platforms to support distributed computing systems," Supercomput. Front. Innov., vol. 8, no. 3, pp. 17–50, Oct. 2021, doi: 10.14529/jsfi210302. 
+- **[7]** C. Burgelin, R. Guerraoui, Z. Hong, Y. Hu, A.-M. Kermarrec, R. Pires, R. M. Veski, and M. de Vos, "The end of consensus research?," arXiv preprint arXiv:2610.30114, Oct. 2026. [Online]. Available: U. Joshi, Patterns of Distributed Systems, 1st ed. Boston, MA, USA: Addison-Wesley Professional, 2023. (ISBN: 978-0-13-822198-0).
 
 *(Consulte la carpeta [`citas-bibliograficas/`](citas-bibliograficas/README.md) para acceder a los archivos PDF y detalles bibliográficos).*
