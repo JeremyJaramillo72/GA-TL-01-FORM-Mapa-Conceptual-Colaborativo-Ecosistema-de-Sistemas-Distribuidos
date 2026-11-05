@@ -144,7 +144,7 @@ Para completar la entrega en la plataforma institucional:
 ## 📚 Citas Bibliográficas
 
 - **[1]** M. van Steen and A. S. Tanenbaum, *Distributed Systems*, 4th ed. Maarten van Steen, 2023.
-- **[2]** G. Coulouris, J. Dollimore, T. Kindberg, and G. Blair, *Distributed Systems: Concepts and Design*, 5th ed. Boston, MA, USA: Addison-Wesley, 2011.
+- **[2]** G. Coulouris, J. Dollimore, T. Kindberg, and G. Blair, *Distributed Systems: Concepts and Design*, 5th ed. Boston, MA, USA: Addison-Wesley, 2021.
 - **[3]** E. A. Brewer, "Towards robust distributed systems," in *Proc. 19th Annu. ACM Symp. Principles of Distributed Computing (PODC)*, Portland, OR, USA, Jul. 2021, p. 7, doi: [10.1145/343477.343502](https://doi.org/10.1145/343477.343502).
 - **[4]** S. Gilbert and N. Lynch, "Brewer's conjecture and the feasibility of consistent, available, partition-tolerant web services," *ACM SIGACT News*, vol. 33, no. 2, pp. 51–59, Jun. 2022, doi: [10.1145/564585.564601](https://doi.org/10.1145/564585.564601).
 - **[5]** R. Vitillo, Understanding Distributed Systems: What Every Developer Should Know About Large Distributed Applications, 2nd ed. London, U.K.: Roberto Vitillo, 2022. (ISBN: 978-1-8384302-1-4).  
@@ -154,5 +154,12 @@ Para completar la entrega en la plataforma institucional:
 - **[9]** I. Shabani, E. Mëziu, B. Berisha, and T. Biba, "Design of modern distributed systems based on microservices architecture," *International Journal of Advanced Computer Science and Applications*, vol. 12, no. 2, 2021, doi: [10.14569/IJACSA.2021.0120220](https://doi.org/10.14569/IJACSA.2021.0120220).
 - **[10]** H. Coullon, L. Henrio, F. Loulergue, and S. Robillard, "Component-based distributed software reconfiguration: A verification-oriented survey," *ACM Computing Surveys*, vol. 56, no. 1, Art. no. 2, pp. 1–37, 2023, doi: [10.1145/3595376](https://doi.org/10.1145/3595376).
 - **[11]** S. H. Christie, A. K. Chopra, and M. P. Singh, "Mandrake: Multiagent systems as a basis for programming fault-tolerant decentralized applications," *Autonomous Agents and Multi-Agent Systems*, vol. 36, no. 1, Art. no. 16, 2022, doi: [10.1007/s10458-021-09540-8](https://doi.org/10.1007/s10458-021-09540-8).
+
+- **[12]** M. Uzgoren, H. Sultana, M. Uzgoren y N. Okumus, "Examination of AI Enhanced Distributed Systems and its Effects on Software Engineering," London Journal of Interdisciplinary Sciences, 2024. 
+- **[13]** M. Uzgoren, H. Sultana, M. Uzgoren y N. Okumus, "Examination of AI Enhanced Distributed Systems and its Effects on Software Engineering," en 13th London International Conference, 2024. 
+- **[14]** N. Tran, "Emerging Technologies and the Transformation of Secure Software Infrastructure: From Conventional Architectures to Distributed Systems," 24 de septiembre de 2026. 
+- **[15]** A. Sunder, "A Unified Engineering Framework for Reliability in Distributed Software Systems: FEA-Inspired Structure, Runtime Dynamics, Operational Time-Warp, and Phase Transitions". 
+- **[16]** A. Enemosah, "ADVANCED SOFTWARE MODELLING TECHNIQUES FOR FAULT TOLERANCE IN LARGE-SCALE DISTRIBUTED COMPUTER ENGINEERING SYSTEMS," International Research Journal of Modernization in Engineering Technology and Science, vol. 07, no. 01, enero de 2025. 
+
 
 *(Consulte la carpeta [`citas-bibliograficas/`](citas-bibliograficas/README.md) para acceder a los archivos PDF y detalles bibliográficos).*
